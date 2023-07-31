@@ -1,1 +1,0 @@
-var projInfo = {"name":"wpstest","type":"wps"}
